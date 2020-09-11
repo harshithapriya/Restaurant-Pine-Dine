@@ -1,0 +1,172 @@
+.navbar-brand{
+  font-weight: bolder;
+  font-family: 'Lora', serif;
+  font-size: 35px;
+  padding-left: 12px;
+  text-shadow: 1px 1px 1px gray;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  color:black;
+  font-weight: bolder;
+}
+.nav-item {
+  padding: 10px 15px;
+}
+.nav-link:hover{
+color:gray;
+}
+.navbar-brand a:hover,.navbar-brand a:focus{
+  text-decoration: none;
+}
+
+.float{
+  padding-left: 5px;
+  color:black;
+  font-size: 10px;
+}
+.icon{
+  color:black;
+  text-align: center;
+  margin-left:23px;
+  font-size: 22px;
+}
+.navbar-nav{
+  margin-left:150px;
+}
+.restaurant-img{
+  margin-left: 80px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+body{
+  font-size:16px;
+  color:#fff;
+  background-color:gray;
+  font-family: 'Oxygen',sans-serif;
+}
+.title{
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  font-weight: bolder;
+  background-color: #ffa931;
+  padding-left: 30px;
+}
+.menu,.chinese-cruisine,.specials{
+  border:1px solid #3f031f;
+  color:black;
+  font-weight: bold;
+}
+.menu:hover,.chinese-cruisine:hover,.specials:hover{
+  box-shadow:0 1px 4px 1px #cccccc;
+}
+h1{
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 30px;
+  color:black;
+}
+h2{
+  color:orange;
+  text-align: center;
+  font-weight: bolder;
+}
+.bf-dinner p{
+  text-align: center;
+  padding:30px;
+  font-size: 35px;
+}
+.bf-dinner img{
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+.about p{
+  text-align: center;
+  padding:30px;
+  font-size: 30px;
+}
+.gallery img{
+  margin-left: 80px;
+  margin-top: 30px;
+}
+.panel-footer{
+  background-color:#222222;
+  padding:40px;
+  text-align:left;
+  margin-top: 30px;
+
+}
+.about p{
+  color:white;
+  font-weight: bolder;
+}
+#address p{
+  color:orange;
+  font-weight: bolder;
+}
+.bottom-container{
+  font-size: 25px;
+}
+.bottom-title{
+  color:orange;
+}
+#contact{
+  font-weight: bolder;
+}
+.menu-title{
+  text-align: center;
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+  background-color: #ffa931;
+  padding-left: 30px;
+}
+.menu-header{
+  margin-bottom: 35px;
+}
+.lunch,.soup,.appetizers,.chef-recommendations,.chicken,.noodles,.egg,.chats,.desserts,.side-orders,.fried-rice,.curries{
+  border:1px solid #3f031f;
+  color:black;
+  font-weight: bold;
+}
+.lunch:hover,.soup:hover,.appetizers:hover,.chef-recommendations:hover,.chicken:hover,.noodles:hover,.egg:hover,.chats:hover,.desserts:hover,.side-orders:hover,.fried-rice:hover,.curries:hover{
+  box-shadow:0 1px 4px 1px #cccccc;
+}
+.chats-tile{
+  margin-top: 50px;
+}
+#about-tile{
+  background-color: black;
+}
+#about-tile h1{
+  color:orange;
+}
+.maps{
+  background-color: black;
+}
+.maps h1{
+  color:orange;
+  pa
+}
+.maps h4{
+  text-align: center;
+  padding:30px;
+}
+.bf-dinner{
+background-color: black;
+
+}
+.bf-dinner h1{
+  color: white;
+}
+.division{
+  background-color: black;
+  margin-bottom: 0;
+}
+.gallery{
+  background-color: black;
+}
+.gallery h1{
+  color:orange;
+}
